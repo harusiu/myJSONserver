@@ -1,0 +1,738 @@
+{
+  {
+		"id": "1",
+		"name": "Ahn Ye-won안예원",
+		"age": "18",
+		"company": "YGKPlus",
+		"rank": "84",
+		"pic": "CqN2hVb"
+	},
+	{
+		"id": "2",
+		"name": "Ahn Yu-jin/안유진",
+		"age": "16",
+		"company": "Starship Entertainment",
+		"rank": "2",
+		"pic": "iWP3MEd"
+	},
+	{
+		"id": "3",
+		"name": "Alex Christine/알렉스 크리스틴",
+		"age": "23",
+		"company": "ZB Label",
+		"rank": "85",
+		"pic": "3SI2EeQ"
+	},
+	{
+		"id": "4",
+		"name": "Aramaki Misaki/荒巻美咲",
+		"age": "18",
+		"company": "HKT48",
+		"rank": "66",
+		"pic": "AGycTuC"
+	},
+	{
+		"id": "5",
+		"name": "Asai Nanami/浅井七海",
+		"age": "19",
+		"company": "AKB48",
+		"rank": "42",
+		"pic": "jsx0o0o"
+	},
+	{
+		"id": "6",
+		"name": "Asai Yuka/浅井裕華",
+		"age": "16",
+		"company": "SKE48",
+		"rank": "83",
+		"pic": "QMEXlCi"
+	},
+	{
+		"id": "7",
+		"name": "Bae Eun-yeong/배은영",
+		"age": "22",
+		"company": "Stone Music Entertainment",
+		"rank": "34",
+		"pic": "q7uBDOl"
+	},
+	{
+		"id": "8",
+		"name": "Chiba Erii/千葉恵里",
+		"age": "16",
+		"company": "AKB48",
+		"rank": "23",
+		"pic": "jSr5m3p"
+	},
+	{
+		"id": "9",
+		"name": "Cho Ah-yeong/조아영",
+		"age": "18",
+		"company": "FNC Entertainment",
+		"rank": "86",
+		"pic": "RNzOLyH"
+	},
+	{
+		"id": "10",
+		"name": "Cho Ka-hyeon/조가현",
+		"age": "16",
+		"company": "Starship Entertainment",
+		"rank": "38",
+		"pic": "rRcfRZA"
+	},
+	{
+		"id": "11",
+		"name": "Cho Sa-rang/조사랑",
+		"age": "16",
+		"company": "Million Market",
+		"rank": "91",
+		"pic": "xP5ZSHS"
+	},
+	{
+		"id": "12",
+		"name": "Cho Yeong-in/조영인",
+		"age": "18",
+		"company": "WM Entertainment",
+		"rank": "74",
+		"pic": "L56lCxT"
+	},
+	{
+		"id": "13",
+		"name": "Choi So-eun/최소은",
+		"age": "18",
+		"company": "The Music Works",
+		"rank": "89",
+		"pic": "JafiOAo"
+	},
+	{
+		"id": "14",
+		"name": "Choi Ye-na/최예나",
+		"age": "20",
+		"company": "Yuehua Entertainment",
+		"rank": "7",
+		"pic": "mBPz395"
+	},
+	{
+		"id": "15",
+		"name": "Choi Yeon-soo/최연수",
+		"age": "20",
+		"company": "YGKPlus",
+		"rank": "57",
+		"pic": "3VoDgTB"
+	},
+	{
+		"id": "16",
+		"name": "Go Yu-jin/고유진",
+		"age": "19",
+		"company": "Blockberry Creative",
+		"rank": "26",
+		"pic": "GCdh23e"
+	},
+	{
+		"id": "17",
+		"name": "Goto Moe/後藤萌咲",
+		"age": "18",
+		"company": "AKB48",
+		"rank": "6",
+		"pic": "mvd4sCe"
+	},
+	{
+		"id": "18",
+		"name": "Han Cho-won/한초원",
+		"age": "17",
+		"company": "Cube Entertainment",
+		"rank": "88",
+		"pic": "QjSLvng"
+	},
+	{
+		"id": "19",
+		"name": "Hasegawa Rena/長谷川玲奈",
+		"age": "18",
+		"company": "NGT48",
+		"rank": "63",
+		"pic": "3t6kY1w"
+	},
+	{
+		"id": "20",
+		"name": "Honda Hitomi/本田仁美",
+		"age": "18",
+		"company": "AKB48",
+		"rank": "22",
+		"pic": "cRVDuPo"
+	},
+	{
+		"id": "21",
+		"name": "Hong Ye-ji/홍예지",
+		"age": "17",
+		"company": "CNC",
+		"rank": "80",
+		"pic": "1OqfJy6"
+	},
+	{
+		"id": "22",
+		"name": "Huh Yun-jin/허윤진",
+		"age": "18",
+		"company": "Pledis Entertainment",
+		"rank": "21",
+		"pic": "K6RXshr"
+	},
+	{
+		"id": "23",
+		"name": "Hwang So-yeon/황소연",
+		"age": "19",
+		"company": "Wellmade Yedang",
+		"rank": "51",
+		"pic": "tJtAOiK"
+	},
+	{
+		"id": "24",
+		"name": "Ichikawa Manami/市川愛美",
+		"age": "20",
+		"company": "AKB48",
+		"rank": "87",
+		"pic": "CtMpIkx"
+	},
+	{
+		"id": "25",
+		"name": "Imada Mina/今田美奈",
+		"age": "22",
+		"company": "HKT48",
+		"rank": "67",
+		"pic": "ivyUosp"
+	},
+	{
+		"id": "26",
+		"name": "Iwatate Saho/岩立沙穂",
+		"age": "25",
+		"company": "AKB48",
+		"rank": "24",
+		"pic": "Q037v90"
+	},
+	{
+		"id": "27",
+		"name": "Jang Gyu-ri/장규리",
+		"age": "22",
+		"company": "Stone Music Entertainment",
+		"rank": "14",
+		"pic": "tX6bJCL"
+	},
+	{
+		"id": "28",
+		"name": "Jang Won-young/장원영",
+		"age": "15",
+		"company": "Starship Entertainment",
+		"rank": "4",
+		"pic": "unspxcs"
+	},
+	{
+		"id": "29",
+		"name": "Jo Yu-ri/조유리",
+		"age": "18",
+		"company": "Stone Music Entertainment",
+		"rank": "18",
+		"pic": "kIG8nix"
+	},
+	{
+		"id": "30",
+		"name": "Kang Da-min/강다민",
+		"age": "15",
+		"company": "Wellmade Yedang",
+		"rank": "75",
+		"pic": "s6Xc3Jg"
+	},
+	{
+		"id": "31",
+		"name": "Kang Hye-won/강혜원",
+		"age": "20",
+		"company": "8D Creative",
+		"rank": "41",
+		"pic": "BU5YHwJ"
+	},
+	{
+		"id": "32",
+		"name": "Kato Yuuka/加藤夕夏",
+		"age": "22",
+		"company": "NMB48",
+		"rank": "73",
+		"pic": "eMV7Y1w"
+	},
+	{
+		"id": "33",
+		"name": "Kim Chae-won/김채원",
+		"age": "19",
+		"company": "Woollim Entertainment",
+		"rank": "30",
+		"pic": "XT2eZGm"
+	},
+	{
+		"id": "34",
+		"name": "Kim Cho-yeon/김초연",
+		"age": "18",
+		"company": "A team",
+		"rank": "37",
+		"pic": "VubwH0f"
+	},
+	{
+		"id": "35",
+		"name": "Kim Da-hye/김다혜",
+		"age": "17",
+		"company": "Banana Culture",
+		"rank": "78",
+		"pic": "LxpQbvX"
+	},
+	{
+		"id": "36",
+		"name": "Kim Da-yeon/김다연",
+		"age": "16",
+		"company": "CNC",
+		"rank": "70",
+		"pic": "2ebo5Zt"
+	},
+	{
+		"id": "37",
+		"name": "Kim Do-ah/김도아",
+		"age": "16",
+		"company": "Fent Entertainment",
+		"rank": "31",
+		"pic": "ePLRF2L"
+	},
+	{
+		"id": "38",
+		"name": "Kim Hyun-ah/김현아",
+		"age": "24",
+		"company": "Collazoo "Company"",
+		"rank": "64",
+		"pic": "uAFd0uv"
+	},
+	{
+		"id": "39",
+		"name": "Kim Min-ju/김민주",
+		"age": "18",
+		"company": "Urban Works",
+		"rank": "19",
+		"pic": "W2Plj0J"
+	},
+	{
+		"id": "40",
+		"name": "Kim Min-seo/김민서",
+		"age": "17",
+		"company": "HOW Entertainment",
+		"rank": "47",
+		"pic": "TB33P5i"
+	},
+	{
+		"id": "41",
+		"name": "Kim Na-young/김나영",
+		"age": "17",
+		"company": "Banana Culture",
+		"rank": "58",
+		"pic": "Rc3TsV5"
+	},
+	{
+		"id": "42",
+		"name": "Kim Si-hyeon/김시현",
+		"age": "20",
+		"company": "Yuehua Entertainment",
+		"rank": "17",
+		"pic": "x70Mp8w"
+	},
+	{
+		"id": "43",
+		"name": "Kim So-hee/김소희",
+		"age": "16",
+		"company": "Woollim Entertainment",
+		"rank": "48",
+		"pic": "jvZ4158"
+	},
+	{
+		"id": "44",
+		"name": "Kim Su-yun/김수윤",
+		"age": "18",
+		"company": "Woollim Entertainment",
+		"rank": "54",
+		"pic": "ZdawET6"
+	},
+	{
+		"id": "45",
+		"name": "Kim Yu-bin/김유빈",
+		"age": "17",
+		"company": "CNC",
+		"rank": "93",
+		"pic": "Bq4614o"
+	},
+	{
+		"id": "46",
+		"name": "Kojima Mako/小嶋真子",
+		"age": "22",
+		"company": "AKB48",
+		"rank": "25",
+		"pic": "aE83019"
+	},
+	{
+		"id": "47",
+		"name": "Kurihara Sae/栗原紗英",
+		"age": "23",
+		"company": "HKT48",
+		"rank": "81",
+		"pic": "t9at4Fd"
+	},
+	{
+		"id": "48",
+		"name": "Kwon Eun-bi/권은비",
+		"age": "24",
+		"company": "Woollim Entertainment",
+		"rank": "5",
+		"pic": "eU7lzBx"
+	},
+	{
+		"id": "49",
+		"name": "Lee Chae-jeong/이채정",
+		"age": "20",
+		"company": "MND17",
+		"rank": "92",
+		"pic": "dOQ0mSL"
+	},
+	{
+		"id": "50",
+		"name": "Lee Chae-yeon/이채연",
+		"age": "19",
+		"company": "WM Entertainment",
+		"rank": "10",
+		"pic": "lXFG3xF"
+	},
+	{
+		"id": "51",
+		"name": "Lee Ga-eun/이가은",
+		"age": "25",
+		"company": "Pledis Entertainment",
+		"rank": "1",
+		"pic": "Tv2QM5H"
+	},
+	{
+		"id": "52",
+		"name": "Lee Ha-eun/이하은",
+		"age": "15",
+		"company": "MNH Entertainment",
+		"rank": "33",
+		"pic": "wQ5YAbf"
+	},
+	{
+		"id": "53",
+		"name": "Lee Seung-hyeon/이승현",
+		"age": "18",
+		"company": "WM Entertainment",
+		"rank": "68",
+		"pic": "K3S3MCd"
+	},
+	{
+		"id": "54",
+		"name": "Lee Si-an/이시안",
+		"age": "20",
+		"company": "Stone Music Entertainment",
+		"rank": "27",
+		"pic": "G7RKpnZ"
+	},
+	{
+		"id": "55",
+		"name": "Lee Yu-jeong/이유정",
+		"age": "15",
+		"company": "CNC",
+		"rank": "49",
+		"pic": "189Wrdq"
+	},
+	{
+		"id": "56",
+		"name": "Matsui Jurina/松井珠理奈",
+		"age": "22",
+		"company": "SKE48",
+		"rank": "12",
+		"pic": "bhW0S1o"
+	},
+	{
+		"id": "57",
+		"name": "Matsuoka Natsumi/松岡菜摘",
+		"age": "23",
+		"company": "HKT48",
+		"rank": "52",
+		"pic": "Atiiq0e"
+	},
+	{
+		"id": "58",
+		"name": "Miyawaki Sakura/宮脇咲良",
+		"age": "21",
+		"company": "HKT48",
+		"rank": "3",
+		"pic": "vcxoAIG"
+	},
+	{
+		"id": "59",
+		"name": "Miyazaki Miho/宮崎美穂",
+		"age": "26",
+		"company": "AKB48",
+		"rank": "15",
+		"pic": "5gY3CwQ"
+	},
+	{
+		"id": "60",
+		"name": "Mogi Shinobu/茂木忍",
+		"age": "22",
+		"company": "AKB48",
+		"rank": "55",
+		"pic": "S7W6xWJ"
+	},
+	{
+		"id": "61",
+		"name": "Motomura Aoi/本村碧唯",
+		"age": "22",
+		"company": "HKT48",
+		"rank": "36",
+		"pic": "RHNj7Nn"
+	},
+	{
+		"id": "62",
+		"name": "Murakawa Bibian/村川緋杏",
+		"age": "20",
+		"company": "HKT48",
+		"rank": "29",
+		"pic": "tRMhFoH"
+	},
+	{
+		"id": "63",
+		"name": "Murase Sae/村瀬紗英",
+		"age": "22",
+		"company": "NMB48",
+		"rank": "45",
+		"pic": "L3XT9Bs"
+	},
+	{
+		"id": "64",
+		"name": "Muto Tomu/武藤十夢",
+		"age": "25",
+		"company": "AKB48",
+		"rank": "32",
+		"pic": "WiwFDNV"
+	},
+	{
+		"id": "65",
+		"name": "Na Go-eun/나고은",
+		"age": "20",
+		"company": "Rainbow Br"id"ge Wirld/RBW)",
+		"rank": "28",
+		"pic": "WRj1FRP"
+	},
+	{
+		"id": "66",
+		"name": "Nagano Serika/永野芹佳",
+		"age": "18",
+		"company": "AKB48",
+		"rank": "76",
+		"pic": "x22xHIC"
+	},
+	{
+		"id": "67",
+		"name": "Naiki Kokoro/内木志",
+		"age": "24",
+		"company": "NMB48",
+		"rank": "82",
+		"pic": "3MUxWHS"
+	},
+	{
+		"id": 68,
+		"name": "Nakanishi Chiyori/中西智代梨",
+		"age": "24",
+		"company": "AKB48",
+		"rank": "40",
+		"pic": "wsmS0ql"
+	},
+	{
+		"id": "69",
+		"name": "Nakano Ikumi/中野郁海",
+		"age": "19",
+		"company": "AKB48",
+		"rank": "50",
+		"pic": "2XwlEpV"
+	},
+	{
+		"id": "70",
+		"name": "Oda Erina/小田えりな",
+		"age": "22",
+		"company": "AKB48",
+		"rank": "69",
+		"pic": "FYNhaDY"
+	},
+	{
+		"id": "71",
+		"name": "Park Chan-ju/박찬주",
+		"age": "20",
+		"company": "MND17",
+		"rank": "71",
+		"pic": "CDiYCKA"
+	},
+	{
+		"id": "72",
+		"name": "Park Hae-yoon/박해윤",
+		"age": "23",
+		"company": "FNC Entertainment",
+		"rank": "43",
+		"pic": "LK0aAq6"
+	},
+	{
+		"id": "73",
+		"name": "Park Ji-eun/박지은",
+		"age": "22",
+		"company": "Rainbow Br"id"ge World/RBW)",
+		"rank": "79",
+		"pic": "RzVQ68Q"
+	},
+	{
+		"id": "74",
+		"name": "Park Jinny/박진희",
+		"age": "21",
+		"company": "Indiv"id"ual Trainee",
+		"rank": "61",
+		"pic": "NPkfH0L"
+	},
+	{
+		"id": "75",
+		"name": "Park Min-ji/박민지",
+		"age": "20",
+		"company": "MND17",
+		"rank": "60",
+		"pic": "HFXblHp"
+	},
+	{
+		"id": "76",
+		"name": "Park Seo-young/박서영",
+		"age": "20",
+		"company": "Indiv"id"ual Trainee",
+		"rank": "35",
+		"pic": "j7RyRVM"
+	},
+	{
+		"id": "77",
+		"name": "Sato Minami/佐藤美波",
+		"age": "16",
+		"company": "AKB48",
+		"rank": "59",
+		"pic": "PINAzRq"
+	},
+	{
+		"id": "78",
+		"name": "Shin Su-hyun/신수현",
+		"age": "23",
+		"company": "Fave Entertainment",
+		"rank": "62",
+		"pic": "LtbPTjq"
+	},
+	{
+		"id": "79",
+		"name": "Shinozaki Ayana/篠崎彩奈",
+		"age": "23",
+		"company": "AKB48",
+		"rank": "77",
+		"pic": "IjGg1rE"
+	},
+	{
+		"id": "80",
+		"name": "Shiroma Miru/白間美瑠",
+		"age": "22",
+		"company": "NMB48",
+		"rank": "13",
+		"pic": "vVj1WMi"
+	},
+	{
+		"id": "81",
+		"name": "Shitao Miu/下尾みう",
+		"age": "18",
+		"company": "AKB48",
+		"rank": "39",
+		"pic": "nqLnH9U"
+	},
+	{
+		"id": "82",
+		"name": "Son Eun-chae/손은채",
+		"age": "20",
+		"company": "Million Market",
+		"rank": "53",
+		"pic": "AWXp7Yo"
+	},
+	{
+		"id": "83",
+		"name": "Takahashi Juri/高橋朱里",
+		"age": "22",
+		"company": "AKB48",
+		"rank": "20",
+		"pic": "4KVTx8h"
+	},
+	{
+		"id": "84",
+		"name": "Takeuchi Miyu/竹内美宥",
+		"age": "23",
+		"company": "AKB48",
+		"rank": "8",
+		"pic": "XhJd6HY"
+	},
+
+	{
+		"id": "85",
+		"name": "Wang Ke/王珂",
+		"age": "19",
+		"company": "HOW Entertainment",
+		"rank": "44",
+		"pic": "8GibN5j"
+	},{
+		"id": "86",
+		"name": "Wang Yi-ren/王怡人",
+		"age": "19",
+		"company": "Yuehua Entertainment",
+		"rank": "9",
+		"pic": "Sea3Dfk"
+	},
+	{
+		"id": "87",
+		"name": "Won Seo-yeon/원서연",
+		"age": "19",
+		"company": "MMO Entertainment",
+		"rank": "90",
+		"pic": "Cux8kpR"
+	},
+	{
+		"id": "88",
+		"name": "Yabuki Nako/矢吹奈子",
+		"age": "18",
+		"company": "HKT48",
+		"rank": "16",
+		"pic": "hA6LfHd"
+	},
+	{
+		"id": "89",
+		"name": "Yamada Noe/山田野絵",
+		"age": "20",
+		"company": "NGT48",
+		"rank": "11",
+		"pic": "B4aFYve"
+	},
+	{
+		"id": "90",
+		"name": "Yoon Eun-bin/윤은빈",
+		"age": "15",
+		"company": "CNC",
+		"rank": "65",
+		"pic": "W6nF76Z"
+	},
+	{
+		"id": "91",
+		"name": "Yoon Hae-sol/윤해솔",
+		"age": "22",
+		"company": "The Music Works",
+		"rank": "56",
+		"pic": "HH89jTB"
+	},
+	{
+		"id": "92",
+		"name": "Yu Min-young/유민영",
+		"age": "19",
+		"company": "HOW Entertainment",
+		"rank": "46",
+		"pic": "qeT9g5F"
+	}
+}
